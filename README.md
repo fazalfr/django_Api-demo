@@ -13,6 +13,7 @@ Steps
 5.  Run the backend server (python manage.py runserver)
 6.  Visit the server link (http://localhost:8000/ebook)
 7.  visit the link (http://localhost:8000/user)
-8.  for CRUD operation go to Postman app 
-9.  Copy the link there 
-10. Now you can see the changes there
+8.  for storing the data , used SQLite database
+9.  for CRUD operation go to Postman app 
+10.  Copy the link there 
+11. Now you can see the changes there
