@@ -1,6 +1,5 @@
 django_Api-demo
-This project is used for Educational purpose
-we are using CRUD operations using Django Rest Api
+This project is used for Educational purpose.
 
 To run the project
 Prerequisites: Python, SQLite ,
